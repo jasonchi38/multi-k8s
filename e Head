@@ -1,0 +1,35 @@
+[33mcommit 5e0a76078c6af7490a94c06a71685f2600a66c28[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: root <jasonchi@email.com>
+Date:   Thu Feb 21 16:07:34 2019 -0500
+
+    added encrypted service account file
+
+[33mcommit ef6317e1caf816e6def54032dac0fe572f9b3141[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: root <jasonchi@email.com>
+Date:   Wed Feb 13 19:14:39 2019 -0500
+
+    corrected client Dockerfiles
+
+[33mcommit 92b351cdd40174b7e4c7f3fcf53b9664535dc056[m
+Author: root <jasonchi@email.com>
+Date:   Wed Feb 13 16:12:41 2019 -0500
+
+    corrected client Dockerfile
+
+[33mcommit 51dfcf1e0e48e8ae86d45b0e86daa3e270464036[m
+Author: root <jasonchi@email.com>
+Date:   Wed Feb 13 15:47:16 2019 -0500
+
+    added memory allocation
+
+[33mcommit 959f70a073730bb7ea9f18f6b8d4f4b2153430e5[m
+Author: root <jasonchi@email.com>
+Date:   Wed Feb 13 12:09:17 2019 -0500
+
+    changed travis yml
+
+[33mcommit c8fcf9af2d531962dd968cf0cbfd5cd74df5ef2f[m
+Author: root <jasonchi@email.com>
+Date:   Tue Feb 12 16:19:21 2019 -0500
+
+    inital commit
